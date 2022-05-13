@@ -1,0 +1,74 @@
+button {
+  height: 80px;
+  width: 200px;
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 5px;
+  color: #1F2535;
+  background-color: white;
+  margin: 80px 0 100px 0px;
+}
+
+h1 {
+  text-align: left;
+  font-size: 100px;
+  font-weight: 700;
+  margin-bottom: 0px;
+  line-height: 1;
+}
+
+h2 {
+  text-align: left;
+  font-size: 28px;
+  padding-left: 20px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: left;
+}
+
+.App {
+  text-align: center;
+}
+
+.Item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 230px;
+}
+
+.Item > p {
+  text-align: left;
+  font-size: 24px;
+  padding-left: 20px;
+  margin-top: 0;
+}
+
+.Items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 150px 0 100px 0;
+  padding: 0 50px 0 50px;
+}
+
+.Main-section {
+  display: flex;
+  flex-direction: column;
+  padding-left: 150px;
+}
+
+.Wrapper {
+  background-color: #1F2535;
+  color: white;
+}
+
+
+
+
+
