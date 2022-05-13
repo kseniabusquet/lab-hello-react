@@ -2,6 +2,10 @@
 
 # LAB | Hello React
 
+## Screenshot of the final result
+
+![final_result_screenshot](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+
 ## Introduction
 
 We just learned the basics of React and JSX. We saw how to create a new React app using the Create React App package. In this exercise we will practice what we just learned by creating a simple landing page (hopefully with some styles :blossom:).
